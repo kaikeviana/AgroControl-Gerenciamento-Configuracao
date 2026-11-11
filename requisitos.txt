@@ -1,0 +1,20 @@
+PROJETO: AGROCONTROL - GERENCIAMENTO DE CONFIGURACAO
+
+OBJETIVO:
+Desenvolver um sistema de gerenciamento agricola para auxiliar no controle de propriedades rurais, plantacoes e atividades.
+
+REQUISITOS FUNCIONAIS:
+RF01 - Permitir o cadastro de usuarios.
+RF02 - Permitir o cadastro de propriedades rurais.
+RF03 - Permitir o gerenciamento de plantacoes.
+RF04 - Gerar relatorios de atividades agricolas.
+RF05 - Enviar notificacoes sobre atividades cadastradas.
+
+REQUISITOS NAO FUNCIONAIS:
+RNF01 - O sistema deve possuir autenticacao de usuarios.
+RNF02 - O sistema deve apresentar interface intuitiva.
+RNF03 - O sistema deve manter os dados armazenados com seguranca.
+
+CONTROLE DE VERSAO:
+Versao inicial: 1.0
+Status: Em desenvolvimento.
